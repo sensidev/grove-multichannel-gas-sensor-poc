@@ -1,0 +1,6 @@
+.DS_Store
+BUILD/
+.build
+.mbed
+.temp
+mbed*.py*
