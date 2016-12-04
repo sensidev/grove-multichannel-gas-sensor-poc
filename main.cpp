@@ -1,5 +1,5 @@
 #include "mbed.h"
-#include "multichannel_gas_sensor.h"
+#include "grove_multichannel_gas.h"
 
 Serial pc(USBTX, USBRX);
 I2C i2c(I2C_SDA, I2C_SCL);
